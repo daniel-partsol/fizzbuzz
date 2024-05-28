@@ -5,7 +5,7 @@ Your goal is to demonstrate your coding skills by creating a video recording of 
 
 # 1) GENERAL KNOWLEDGE VIDEO DEMONSTRATION
 - Please make a video recording of your answers to the questions in the notebook: https://github.com/daniel-partsol/fizzbuzz/blob/main/Interview_Questions.ipynb
-- Please send the video file to alyssa.callahan@partsol.com and cc daniel@lemay.ai
+- Please send the video file to brian.rau@parsol.com and ed.galarza@partsol.com
 - After you submit the video, proceed to step 2, below.
 
 # 2) MODEL DEPLOYMENT DEMONSTRATION
